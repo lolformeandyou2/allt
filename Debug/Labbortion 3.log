@@ -1,0 +1,4 @@
+﻿  Lab 3.c
+\\storage10.student.bth.se\profile\elru16\desktop\labbortion 3\labbortion 3\lab 3.c(9): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+  Labbortion 3.vcxproj -> \\storage10.student.bth.se\profile\elru16\Desktop\Labbortion 3\Debug\Labbortion 3.exe
+  Labbortion 3.vcxproj -> \\storage10.student.bth.se\profile\elru16\Desktop\Labbortion 3\Debug\Labbortion 3.pdb (Full PDB)
