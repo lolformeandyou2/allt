@@ -1,5 +1,7 @@
 #include <stdlib.h>
 
+//En cool kommentar
+
 char* encryptText(char *plainText, int arrLength, int key)
 {
 	int temp;
